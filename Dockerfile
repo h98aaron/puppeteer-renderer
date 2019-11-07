@@ -1,4 +1,4 @@
-FROM zenato/puppeteer
+FROM zenika/alpine-chrome:with-puppeteer
 
 USER root
 
